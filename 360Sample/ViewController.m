@@ -32,8 +32,7 @@
     
     NSArray  *yourFolderContents = [[NSFileManager defaultManager]
                                     contentsOfDirectoryAtPath:yourFolderPath error:&error];
-    
-    NSLog(@"hhshghsdf");
+    NSLog(@"");
     
 }
 
